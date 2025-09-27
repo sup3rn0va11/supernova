@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitbharat256
+- 👋 Hi, I’m @supernova
 - 👀 I’m interested in cookies 🍪
 <!---
 amitbharat256/amitbharat256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
